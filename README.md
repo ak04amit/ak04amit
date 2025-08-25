@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Amit Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Engineer+%40+NIT+Raipur+%E2%9B%8F%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Engineer+%40+NIT+Raipur+%F0%9F%8F%AB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
